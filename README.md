@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @jimstolze
-- 👀 I’m interested in shiny objects and lazy scripts
-- 🌱 I’m currently building a platform for online educatoin
-- 💞️ togeher with developers in Poland, Ukraine, Netherlands and Switzerland
-- 📫 How to reach me ... you'll know.
+- 👀 I’m fond of lazy programming and creative code
+- 🌱 I’m currently building a platform for online education
+- 💞️ together with developers in Poland, Ukraine, Netherlands and Switzerland
+- 📫 How to reach me ... my name at gmail.
 
 <!---
 jimstolze/jimstolze is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
